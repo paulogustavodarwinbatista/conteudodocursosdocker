@@ -1,0 +1,17 @@
+# Aula 1
+
+## O que é o docker?
+ 
+  Docker é uma aplicação que permite a criação e encaminhamento de aplicações.
+
+ - Aprendi a configurar o github no meu vscode.
+
+ - Agora já esta meu editor sincronizando.
+
+Instalei o docker no meu linux
+```bash
+#apt install docker.io
+
+
+
+

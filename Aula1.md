@@ -10,7 +10,7 @@
 
 Instalei o docker no meu linux
 ```bash
-#apt install docker.io
+# apt install docker.io
 
 
 
